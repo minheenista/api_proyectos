@@ -1,0 +1,165 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "idProyecto": 1,
+        "titleTarea": "Tarea 1",
+        "descripcion": "descripcion de la Tarea 1",
+        "fecha": "2023-01-16",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 2,
+        "idProyecto": 1,
+        "titleTarea": "Tarea 2",
+        "descripcion": "descripcion de la Tarea 2",
+        "fecha": "2023-01-18",
+        "estado": "Completada"
+      },
+      {
+        "id": 3,
+        "idProyecto": 2,
+        "titleTarea": "Tarea 3",
+        "descripcion": "descripcion de la Tarea 3",
+        "fecha": "2023-03-12",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 4,
+        "idProyecto": 2,
+        "titleTarea": "Tarea 4",
+        "descripcion": "descripcion de la Tarea 4",
+        "fecha": "2023-03-15",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 5,
+        "idProyecto": 3,
+        "titleTarea": "Tarea 5",
+        "descripcion": "descripcion de la Tarea 5",
+        "fecha": "2023-05-02",
+        "estado": "Completada"
+      },
+      {
+        "id": 6,
+        "idProyecto": 3,
+        "titleTarea": "Tarea 6",
+        "descripcion": "descripcion de la Tarea 6",
+        "fecha": "2023-05-05",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 7,
+        "idProyecto": 4,
+        "titleTarea": "Tarea 7",
+        "descripcion": "descripcion de la Tarea 7",
+        "fecha": "2023-07-22",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 8,
+        "idProyecto": 4,
+        "titleTarea": "Tarea 8",
+        "descripcion": "descripcion de la Tarea 8",
+        "fecha": "2023-07-25",
+        "estado": "Completada"
+      },
+      {
+        "id": 9,
+        "idProyecto": 5,
+        "titleTarea": "Tarea 9",
+        "descripcion": "descripcion de la Tarea 9",
+        "fecha": "2023-09-10",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 10,
+        "idProyecto": 5,
+        "titleTarea": "Tarea 10",
+        "descripcion": "descripcion de la Tarea 10",
+        "fecha": "2023-09-12",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 11,
+        "idProyecto": 6,
+        "titleTarea": "Tarea 11",
+        "descripcion": "descripcion de la Tarea 11",
+        "fecha": "2023-11-02",
+        "estado": "Completada"
+      },
+      {
+        "id": 12,
+        "idProyecto": 6,
+        "titleTarea": "Tarea 12",
+        "descripcion": "descripcion de la Tarea 12",
+        "fecha": "2023-11-05",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 13,
+        "idProyecto": 7,
+        "titleTarea": "Tarea 13",
+        "descripcion": "descripcion de la Tarea 13",
+        "fecha": "2024-01-20",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 14,
+        "idProyecto": 7,
+        "titleTarea": "Tarea 14",
+        "descripcion": "descripcion de la Tarea 14",
+        "fecha": "2024-01-25",
+        "estado": "Completada"
+      },
+      {
+        "id": 15,
+        "idProyecto": 8,
+        "titleTarea": "Tarea 15",
+        "descripcion": "descripcion de la Tarea 15",
+        "fecha": "2024-03-10",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 16,
+        "idProyecto": 8,
+        "titleTarea": "Tarea 16",
+        "descripcion": "descripcion de la Tarea 16",
+        "fecha": "2024-03-15",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 17,
+        "idProyecto": 9,
+        "titleTarea": "Tarea 17",
+        "descripcion": "descripcion de la Tarea 17",
+        "fecha": "2024-05-02",
+        "estado": "Completada"
+      },
+      {
+        "id": 18,
+        "idProyecto": 9,
+        "titleTarea": "Tarea 18",
+        "descripcion": "descripcion de la Tarea 18",
+        "fecha": "2024-05-05",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 19,
+        "idProyecto": 10,
+        "titleTarea": "Tarea 19",
+        "descripcion": "descripcion de la Tarea 19",
+        "fecha": "2024-07-20",
+        "estado": "Pendiente"
+      },
+      {
+        "id": 20,
+        "idProyecto": 10,
+        "titleTarea": "Tarea 20",
+        "descripcion": "descripcion de la Tarea 20",
+        "fecha": "2024-07-25",
+        "estado": "Completada"
+      }
+    ]
+  }
+  
