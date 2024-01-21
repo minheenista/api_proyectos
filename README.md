@@ -1,4 +1,4 @@
-# api_proyectos // Poject Management Api
+# api_proyectos // Project Management Api
 
 API diseñada para la administración de proyectos, incorporando funcionalidades especializadas para gestionar tareas asignadas. 
 
